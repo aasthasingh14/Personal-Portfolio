@@ -1,0 +1,179 @@
+body, h1, h2, h3, p {
+    margin: 1%; 
+    padding: 0;
+}
+#head{
+    margin-top: 2%;
+    height: 60px;
+}
+#namebar{
+    width: 40%;
+    float: left;
+} 
+#navbar{
+    float: right;
+    width: 60%;
+} 
+ 
+#name{
+    margin-top: 5%;
+    margin-left: 15%;
+    font-family: lucida handwriting;
+    font-size: 200%; 
+}
+ 
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+} 
+
+nav{
+    margin-top: 5%;  
+}
+   
+nav ul li {
+    display: inline;  
+    margin-right: 10px; 
+}
+
+nav ul li a {
+    text-decoration: none;  
+    color: rgb(50, 47, 47);  
+    padding: 10px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+   
+nav ul li a:hover {
+    color: #8d8d8d;  
+}
+  
+ 
+#aboutme {  
+    color: #651189;
+    text-align: left;
+    padding-left: 75px; 
+    height: 420px; 
+    margin-top: 5%;
+    font-family: pristina;
+    font-size: 500%;
+    background-color: rgb(255, 249, 249);
+}
+#aboutme1{
+    float: left;
+    width: 65%;
+    margin-top: 80px;
+}
+#desc{
+    font-size: 45%; 
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: kaeshum;
+    color: rgb(161, 30, 212);
+}
+#aboutme2{ 
+    margin-top: 70px;
+    float: right;
+    width: 30%; 
+    margin-right: 5%;
+}
+
+#whatido{
+    margin-top: 5%;
+    height: 550px;
+    background-color: rgb(255, 245, 245);
+}
+ 
+#whatido1{
+    float: left; 
+    width: 30%;
+    height: 370px; 
+    padding: 5%;
+}
+
+#whatido2{ 
+    width: 55%;
+    height: 370px;
+    float: right; 
+    padding: 2%;
+}
+
+img{
+    margin: 1%; 
+}
+
+#prof{
+    margin-top: 5%;
+    height: 550px;
+    background-color: rgb(255, 246, 255);
+}
+
+#prof1{
+    width: 50%;
+    height: 370px;
+    float: left; 
+    padding: 2%;
+}
+
+#prof2{
+    float: right; 
+    width: 30%;
+    height: 370px; 
+    padding: 5%;
+}
+
+#divtag{ 
+    justify-content: center;
+    margin-top: 5%;
+    height: 500px;
+    width: 100%; 
+}
+
+#project{
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+    height: 370px;
+    float: left; 
+    padding: 2%; 
+    background-color: rgb(251, 242, 255);
+    margin-left: 10%;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: #9f9f9f;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#resume{
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+    height: 370px;
+    float: right; 
+    padding: 2%; 
+    background-color: rgb(251, 242, 255);
+    margin-right: 10%;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: #9f9f9f;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#contact{
+    background-color: rgb(142, 142, 142);
+    height: 300px;
+    text-align: center;
+    padding-top: 5%;
+    color: white;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+ 
